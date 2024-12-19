@@ -1,0 +1,7 @@
+/home/joao/Documents/trybe/java/java-podcast-manager/src/main/java/com/betrybe/podcastmanager/PodcastManagerApplication.java
+/home/joao/Documents/trybe/java/java-podcast-manager/src/main/java/com/betrybe/podcastmanager/exception/PodcastNotFoundException.java
+/home/joao/Documents/trybe/java/java-podcast-manager/src/main/java/com/betrybe/podcastmanager/repository/PodcastRepository.java
+/home/joao/Documents/trybe/java/java-podcast-manager/src/main/java/com/betrybe/podcastmanager/controller/PodcastRestController.java
+/home/joao/Documents/trybe/java/java-podcast-manager/src/main/java/com/betrybe/podcastmanager/dto/PodcastDto.java
+/home/joao/Documents/trybe/java/java-podcast-manager/src/main/java/com/betrybe/podcastmanager/service/PodcastService.java
+/home/joao/Documents/trybe/java/java-podcast-manager/src/main/java/com/betrybe/podcastmanager/entity/Podcast.java
